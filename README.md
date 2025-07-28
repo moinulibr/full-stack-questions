@@ -1,7 +1,3 @@
-Absolutely! Here's the content formatted as a Markdown (`.md`) file. You can copy and paste this directly into a text editor and save it with a `.md` extension (e.g., `interview_questions.md`).
-
----
-
 # Interview Questions
 
 ---
