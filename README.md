@@ -1,15 +1,14 @@
-
-```markdown
+```
 # ইন্টারভিউ প্রশ্নাবলী
 
 ---
 ## 1. PHP & OOP (Object-Oriented Programming)
 
 ### 1.1. PHP Basics & Advanced:
-1.1.1. PHP এর **strict\_types** declare করার সুবিধা কী এবং কখন এটি ব্যবহার করবেন?
+1.1.1. PHP এর **strict_types** declare করার সুবিধা কী এবং কখন এটি ব্যবহার করবেন?
 1.1.2. PHP-তে **Generators** কী এবং কিভাবে এটি মেমরি অপ্টিমাইজেশনে সাহায্য করে?
 1.1.3. **Type Hinting** এবং **Return Type Declarations** PHP তে কোডের রিডেবিলিটি ও মেইনটেনেন্স কিভাবে উন্নত করে?
-1.1.4. PHP-তে **magic methods** (যেমন: `__call`, `__get`, `__set`) কী এবং তাদের ব্যবহারিক প্রয়োগ উদাহরণসহ ব্যাখ্যা করুন।
+1.1.4. PHP-তে **magic methods** (যেমন: __call, __get, __set) কী এবং তাদের ব্যবহারিক প্রয়োগ উদাহরণসহ ব্যাখ্যা করুন।
 1.1.5. **Error handling** এবং **Exception handling** এর মধ্যে পার্থক্য কী? আপনার প্রজেক্টে কিভাবে এগুলো ম্যানেজ করেছেন?
 1.1.6. **PSR standards** কী এবং আপনার কোডিং স্টাইলে এর প্রভাব কেমন?
 1.1.7. PHP তে **মেথড চেইনিং (Method Chaining)** কী? উদাহরণসহ ব্যাখ্যা করুন এবং এর সুবিধা কী?
@@ -18,7 +17,7 @@
 1.1.10. PHP তে `require()` এবং `include()` ফাংশনের মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?
 1.1.11. PHP তে `require_once()` এবং `include_once()` এর ব্যবহার কী?
 1.1.12. PHP তে **NULL** বলতে কী বোঝায়?
-1.1.13. PHP তে `$variable` এবং `$$variable` এর মধ্যে পার্থক্য কী? উদাহরণসহ ব্যাখ্যা করুন।
+1.1.13. PHP তে $variable এবং $$variable এর মধ্যে পার্থক্য কী? উদাহরণসহ ব্যাখ্যা করুন।
 
 ### 1.2. OOP Concepts:
 1.2.1. **OOP** কী এবং এর ৪টি মূল নীতি কী কী?
@@ -27,9 +26,9 @@
 1.2.4. **Abstract Class** এবং **Interface** এর মধ্যে পার্থক্য কী?
 1.2.5. **Polymorphism** কী? PHP তে একটি উদাহরণ দিন।
 1.2.6. PHP তে **Traits** কী? কেন এগুলো ব্যবহার করবেন?
-1.2.7. **Magic methods** (`__construct`, `__get`, `__set`) কী?
+1.2.7. **Magic methods** (__construct, __get, __set) কী?
 1.2.8. **Public**, **protected**, এবং **private** এর মধ্যে পার্থক্য কী?
-1.2.9. **Late static binding** কী?
+12.9. **Late static binding** কী?
 1.2.10. PHP তে **Dependency Injection** কিভাবে কাজ করে?
 
 ---
@@ -131,7 +130,7 @@
 5.2.7. NestJS এ একটি **Interceptor** কী?
 5.2.8. NestJS এ **JWT authentication** কিভাবে ইমপ্লিমেন্ট করবেন?
 5.2.9. NestJS এ **Dependency Injection** কী?
-5.2.10. NestJS এ **Decorators** (যেমন: `@Controller`, `@Injectable`) কী?
+5.2.10. NestJS এ **Decorators** (যেমন: @Controller, @Injectable) কী?
 5.2.11. আপনার **AT SMS** প্রোজেক্টে কিভাবে **Microservices** আর্কিটেকচার NestJS দিয়ে ইমপ্লিমেন্ট করেছেন? কোন **transport layer** (যেমন: TCP, Redis, Kafka) ব্যবহার করেছেন এবং কেন?
 5.2.12. NestJS এ **Custom Decorators** বা **Custom Pipes** কিভাবে তৈরি করবেন? একটি ব্যবহারিক উদাহরণ দিন।
 5.2.13. NestJS অ্যাপ্লিকেশনে **Unit Testing** এবং **End-to-End Testing** কিভাবে করেন?
@@ -231,7 +230,7 @@
 8.3.1. **SQL Join** এর বিভিন্ন প্রকার (INNER, LEFT, RIGHT, FULL) উদাহরণসহ ব্যাখ্যা করুন।
 8.3.2. **Stored Procedures**, **Functions** এবং **Triggers** এর মধ্যে পার্থক্য কী?
 8.3.3. **Database Views** কী এবং তাদের ব্যবহার কী?
-8.3.4. **Query Optimization** এর জন্য আপনি কী কী টুলস এবং কৌশল ব্যবহার করেন? (যেমন: `EXPLAIN` কমান্ড)।
+8.3.4. **Query Optimization** এর জন্য আপনি কী কী টুলস এবং কৌশল ব্যবহার করেন? (যেমন: EXPLAIN কমান্ড)।
 8.3.5. **Indexes** কিভাবে **query performance** উন্নত করে এবং অতিরিক্ত ইনডেক্সিং এর অসুবিধা কী?
 8.3.6. MySQL এর **InnoDB** এবং **MyISAM** storage engines এর মধ্যে পার্থক্য কী?
 
@@ -322,7 +321,7 @@
 
 ### 12.2. Real-time & Messaging (Pusher, Twilio):
 12.2.1. **Pusher** ব্যবহার করে আপনার প্রোজেক্টে **real-time notifications** বা **chat system** কিভাবে ইমপ্লিমেন্ট করেছেন?
-12.2.2. **Twilio** ব্যবহার করে **SMS notifications** বা **voice calls** কিভাবে ইমপ্লিমেন্ট করেছেন?
+12.2.2. **Twilio** ব্যবহার করে **SMS notifications** বা **voice calls** কিভাবে ইমপ্লiment করেছেন?
 12.2.3. **Webhooks** এর গুরুত্ব কী যখন **third-party services** (যেমন: Stripe, Twilio) এর সাথে ইন্টিগ্রেট করছেন?
 
 ---
