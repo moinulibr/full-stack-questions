@@ -1,4 +1,3 @@
-Here is the complete content formatted as a Markdown file. You can directly copy and paste this into a `.md` file.
 
 ```markdown
 # ইন্টারভিউ প্রশ্নাবলী
