@@ -1,4 +1,4 @@
-Here's the interview question list in a plain text (`.txt`) format. You can copy and paste this into any text editor and save it as a `.txt` file.
+
 
 ```
 # ইন্টারভিউ প্রশ্নাবলী
@@ -486,4 +486,3 @@ English: Conduct regular **security audits** and penetration testing.
 16.1.8. এই স্কেলে **Subscription Management** (কে ইমেল/নোটিফিকেশন পাবে বা পাবে না) এবং **Opt-out** প্রক্রিয়া কিভাবে ম্যানেজ করবেন?
 16.1.9. **Failed deliveries** (যেমন: Invalid email, bounced, unreachable device) কিভাবে হ্যান্ডেল করবেন এবং রিট্রাই মেকানিজম কেমন হবে?
 16.1.10. এই ধরনের মাস কমিউনিকেশনের জন্য আপনি কি থার্ড-পার্টি সার্ভিস (যেমন: Amazon SES, Twilio, Firebase Cloud Messaging) ব্যবহার করবেন নাকি নিজস্ব সমাধান তৈরি করবেন? আপনার সিদ্ধান্তের কারণ কী?
-```
