@@ -42,34 +42,35 @@
 
 ## 2.1. Composer বেসিকস:
 2.1.1. **Composer** কী? PHP ইকোসিস্টেমে এর ভূমিকা কী?
-2.1.2. **Composer** কিভাবে কাজ করে? এর প্রধান কাজগুলো কী কী?
-2.1.3. **`composer.json`** এবং **`composer.lock`** ফাইলের মধ্যে পার্থক্য কী?
-2.1.4. **`composer install`** এবং **`composer update`** কমান্ডের মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?
-2.1.5. **Autoloading** এর ক্ষেত্রে Composer কিভাবে সাহায্য করে? **PSR-4 autoloading** ব্যাখ্যা করুন।
-2.1.6. **Vendor folder** এর উদ্দেশ্য কী?
-2.1.7. Composer ব্যবহার করে কিভাবে একটি নতুন PHP প্রজেক্ট শুরু করবেন এবং প্রয়োজনীয় প্যাকেজ যুক্ত করবেন?
-2.1.8. **Packagist** কী এবং Composer এর সাথে এর সম্পর্ক কী?
+
+2.1.2. **Composer** কিভাবে কাজ করে? এর প্রধান কাজগুলো কী কী?  
+2.1.3. **`composer.json`** এবং **`composer.lock`** ফাইলের মধ্যে পার্থক্য কী?  
+2.1.4. **`composer install`** এবং **`composer update`** কমান্ডের মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?  
+2.1.5. **Autoloading** এর ক্ষেত্রে Composer কিভাবে সাহায্য করে? **PSR-4 autoloading** ব্যাখ্যা করুন।  
+2.1.6. **Vendor folder** এর উদ্দেশ্য কী?  
+2.1.7. Composer ব্যবহার করে কিভাবে একটি নতুন PHP প্রজেক্ট শুরু করবেন এবং প্রয়োজনীয় প্যাকেজ যুক্ত করবেন?  
+2.1.8. **Packagist** কী এবং Composer এর সাথে এর সম্পর্ক কী? 
 
 ## 2.2. Composer অ্যাডভান্সড:
-2.2.1. Composer ব্যবহার করে কিভাবে একটি **Custom Package** তৈরি করবেন এবং আপনার প্রোজেক্টে যুক্ত করবেন?
-2.2.2. **Composer scripts** কী এবং কিভাবে এগুলো ব্যবহার করবেন?
-2.2.3. Composer দিয়ে **Dev Dependencies** এবং **Production Dependencies** কিভাবে ম্যানেজ করবেন?
-2.2.4. যদি **Composer install** ব্যর্থ হয়, তাহলে আপনি কিভাবে ডিবাগ করবেন?
-2.2.5. Composer এর **`dump-autoload`** কমান্ডের কাজ কী? কখন এটি ব্যবহার করা হয়?
-2.2.6. আপনার **CI/CD pipeline** এ Composer কিভাবে ব্যবহার করেন?
+2.2.1. Composer ব্যবহার করে কিভাবে একটি **Custom Package** তৈরি করবেন এবং আপনার প্রোজেক্টে যুক্ত করবেন?  
+2.2.2. **Composer scripts** কী এবং কিভাবে এগুলো ব্যবহার করবেন?  
+2.2.3. Composer দিয়ে **Dev Dependencies** এবং **Production Dependencies** কিভাবে ম্যানেজ করবেন?  
+2.2.4. যদি **Composer install** ব্যর্থ হয়, তাহলে আপনি কিভাবে ডিবাগ করবেন?  
+2.2.5. Composer এর **`dump-autoload`** কমান্ডের কাজ কী? কখন এটি ব্যবহার করা হয়?  
+2.2.6. আপনার **CI/CD pipeline** এ Composer কিভাবে ব্যবহার করেন?  
 
 ---
 
 # 3. Laravel
 
 ## 3.1. Laravel কোর:
-3.1.1. Laravel **Request Lifecycle** বিস্তারিত ব্যাখ্যা করুন।
-3.1.2. **Service Providers** এবং **Service Container** Laravel এর আর্কিটেকচারে কি ভূমিকা পালন করে?
-3.1.3. **Eloquent ORM** এ **N+1 problem** কী এবং কিভাবে এটি সমাধান করবেন?
-3.1.4. **Middleware** কী? আপনার প্রোজেক্টে ব্যবহার করা একটি কাস্টম Middleware এর উদাহরণ দিন।
-3.1.5. Laravel এর **Queue System** কিভাবে কাজ করে? আপনার **Data Sync Service** এ কিভাবে এটি ব্যবহার করেছেন এবং এর সুবিধা কী?
-3.1.6. **Artisan Commands** এর ব্যবহার এবং গুরুত্ব আলোচনা করুন।
-3.1.7. Laravel এর **Authentication** এবং **Authorization** কিভাবে ইমপ্লিমেন্ট করেন? (যেমন: Gates, Policies, Sanctum/Passport)।
+3.1.1. Laravel **Request Lifecycle** বিস্তারিত ব্যাখ্যা করুন।  
+3.1.2. **Service Providers** এবং **Service Container** Laravel এর আর্কিটেকচারে কি ভূমিকা পালন করে?  
+3.1.3. **Eloquent ORM** এ **N+1 problem** কী এবং কিভাবে এটি সমাধান করবেন?  
+3.1.4. **Middleware** কী? আপনার প্রোজেক্টে ব্যবহার করা একটি কাস্টম Middleware এর উদাহরণ দিন।  
+3.1.5. Laravel এর **Queue System** কিভাবে কাজ করে? আপনার **Data Sync Service** এ কিভাবে এটি ব্যবহার করেছেন এবং এর সুবিধা কী?  
+3.1.6. **Artisan Commands** এর ব্যবহার এবং গুরুত্ব আলোচনা করুন।  
+3.1.7. Laravel এর **Authentication** এবং **Authorization** কিভাবে ইমপ্লিমেন্ট করেন? (যেমন: Gates, Policies, Sanctum/Passport)।  
 
 ## 3.2. অ্যাডভান্সড Laravel:
 3.2.1. Laravel **Service Container** কী?
