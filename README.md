@@ -73,21 +73,21 @@
 3.1.7. Laravel এর **Authentication** এবং **Authorization** কিভাবে ইমপ্লিমেন্ট করেন? (যেমন: Gates, Policies, Sanctum/Passport)।  
 
 ## 3.2. অ্যাডভান্সড Laravel:
-3.2.1. Laravel **Service Container** কী?
-3.2.2. **Service Provider** এবং **Facade** এর মধ্যে পার্থক্য কী?
-3.2.3. **Middleware** কী এবং আপনি এটি কিভাবে ব্যবহার করেন?
-3.2.4. Laravel এ **Queues** এবং **Jobs** কিভাবে ব্যবহার করেন?
-3.2.5. **Failed jobs** এবং **retries** কিভাবে হ্যান্ডেল করবেন?
-3.2.6. Laravel এ **Policies** এবং **Gates** কী?
-3.2.7. **Form Request Validation** কিভাবে ইমপ্লিমেন্ট করবেন?
-3.2.8. **Observers** কী এবং কখন এগুলো ব্যবহার করবেন?
-3.2.9. **Repository Pattern** কী এবং আপনি এটি কিভাবে ব্যবহার করেছেন?
-3.2.10. Laravel এবং **Lumen** এর মধ্যে পার্থক্য কী?
-3.2.11. Laravel **Events** এবং **Listeners** কিভাবে কাজ করে? কখন এটি ব্যবহার করা উচিত?
-3.2.12. Laravel **Broadcasting** কিভাবে **real-time features** ইমপ্লিমেন্টেশনে সাহায্য করে?
-3.2.13. Laravel এ **Caching** কিভাবে ব্যবহার করেন? (যেমন: Redis cache, File cache)।
-3.2.14. আপনার **Ebaskat** প্রোজেক্টে **Cron Jobs** কিভাবে সেটআপ এবং অপ্টিমাইজ করেছেন?
-3.2.15. Database **Migrations** এবং **Seeders** এর গুরুত্ব এবং আপনার অভিজ্ঞতা আলোচনা করুন।
+3.2.1. Laravel **Service Container** কী?  
+3.2.2. **Service Provider** এবং **Facade** এর মধ্যে পার্থক্য কী?  
+3.2.3. **Middleware** কী এবং আপনি এটি কিভাবে ব্যবহার করেন?  
+3.2.4. Laravel এ **Queues** এবং **Jobs** কিভাবে ব্যবহার করেন?  
+3.2.5. **Failed jobs** এবং **retries** কিভাবে হ্যান্ডেল করবেন?  
+3.2.6. Laravel এ **Policies** এবং **Gates** কী?  
+3.2.7. **Form Request Validation** কিভাবে ইমপ্লিমেন্ট করবেন?  
+3.2.8. **Observers** কী এবং কখন এগুলো ব্যবহার করবেন?  
+3.2.9. **Repository Pattern** কী এবং আপনি এটি কিভাবে ব্যবহার করেছেন?  
+3.2.10. Laravel এবং **Lumen** এর মধ্যে পার্থক্য কী?  
+3.2.11. Laravel **Events** এবং **Listeners** কিভাবে কাজ করে? কখন এটি ব্যবহার করা উচিত?  
+3.2.12. Laravel **Broadcasting** কিভাবে **real-time features** ইমপ্লিমেন্টেশনে সাহায্য করে?  
+3.2.13. Laravel এ **Caching** কিভাবে ব্যবহার করেন? (যেমন: Redis cache, File cache)।  
+3.2.14. আপনার **Ebaskat** প্রোজেক্টে **Cron Jobs** কিভাবে সেটআপ এবং অপ্টিমাইজ করেছেন?  
+3.2.15. Database **Migrations** এবং **Seeders** এর গুরুত্ব এবং আপনার অভিজ্ঞতা আলোচনা করুন।  
 
 ---
 
