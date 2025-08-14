@@ -94,12 +94,12 @@
 # 4. JavaScript (সাধারণ ও অ্যাডভান্সড)
 
 ## 4.1. JS কোর কনসেপ্টস:
-4.1.1. **Execution Context** এবং **Lexical Environment** JavaScript এ কিভাবে কাজ করে?
-4.1.2. **Closures** কী? এটি কিভাবে **private variables** এবং **data encapsulation** এ সাহায্য করে? একটি বাস্তব উদাহরণ দিন।
-4.1.3. **Hoisting** কী? **var**, **let**, **const** এর সাথে **hoisting** এর পার্থক্য আলোচনা করুন।
-4.1.4. **Event Delegation** কী এবং কখন এটি ব্যবহার করা উচিত? এর সুবিধা কী?
-4.1.5. **Prototypal Inheritance** এবং **Class-based Inheritance** এর মধ্যে পার্থক্য ব্যাখ্যা করুন। JavaScript এ কিভাবে **inheritance** কাজ করে?
-4.1.6. **this** কীওয়ার্ড এর বিভিন্ন **binding rules** (Implicit, Explicit, New, Lexical) উদাহরণসহ ব্যাখ্যা করুন।
+4.1.1. **Execution Context** এবং **Lexical Environment** JavaScript এ কিভাবে কাজ করে?  
+4.1.2. **Closures** কী? এটি কিভাবে **private variables** এবং **data encapsulation** এ সাহায্য করে? একটি বাস্তব উদাহরণ দিন।  
+4.1.3. **Hoisting** কী? **var**, **let**, **const** এর সাথে **hoisting** এর পার্থক্য আলোচনা করুন।  
+4.1.4. **Event Delegation** কী এবং কখন এটি ব্যবহার করা উচিত? এর সুবিধা কী?  
+4.1.5. **Prototypal Inheritance** এবং **Class-based Inheritance** এর মধ্যে পার্থক্য ব্যাখ্যা করুন। JavaScript এ কিভাবে **inheritance** কাজ করে?  
+4.1.6. **this** কীওয়ার্ড এর বিভিন্ন **binding rules** (Implicit, Explicit, New, Lexical) উদাহরণসহ ব্যাখ্যা করুন।  
 
 ## 4.2. Asynchronous JS ও ES6+:
 4.2.1. **var**, **let**, এবং **const** এর মধ্যে পার্থক্য কী?
