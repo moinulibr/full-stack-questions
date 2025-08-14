@@ -167,121 +167,121 @@
 6.1.13. **Prop drilling** কী এবং কিভাবে এটি এড়ানো যায়?  
 
 ## 6.2. Next.js:
-6.2.1. **SSR**, **CSR**, এবং **SSG** এর মধ্যে পার্থক্য কী? 
-6.2.2. Next.js এ `getServerSideProps` কী? 
-6.2.3. Next.js এ **Authentication** কিভাবে হ্যান্ডেল করবেন? 
-6.2.4. আপনার Laravel প্রোজেক্টে কেন **Inertia.js** ব্যবহার করেছেন? 
-6.2.5. **React Router** এবং **Route Protection** ব্যাখ্যা করুন। 
-6.2.6. **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, এবং **Incremental Static Regeneration (ISR)** এর মধ্যে পার্থক্য কী? প্রতিটি ব্যবহারের সেরা পরিস্থিতি ব্যাখ্যা করুন। 
-6.2.7. Next.js এ **Data Fetching** এর বিভিন্ন পদ্ধতি (যেমন: `getServerSideProps`, `getStaticProps`, `getStaticPaths`, client-side fetching) বিস্তারিত আলোচনা করুন। 
-6.2.8. **File-system based routing** Next.js এ কিভাবে কাজ করে? **Dynamic routes** কিভাবে ইমপ্লিমেন্ট করবেন? 
-6.2.9. **API Routes** Next.js এ কিভাবে কাজ করে? কখন এগুলো ব্যবহার করবেন? 
-6.2.10. Next.js **Middleware** কী এবং এর ব্যবহার কী? 
-6.2.11. `next/image` এবং `next/head` কম্পোনেন্টগুলির ব্যবহার এবং সুবিধা কী? 
-6.2.12. **App Router** এবং **Pages Router** এর মধ্যে পার্থক্য কী? আপনি কেন একটির পরিবর্তে অন্যটি বেছে নেবেন? 
-6.2.13. Next.js অ্যাপ্লিকেশন **Deployment** এর জন্য কিভাবে প্রস্তুত করেন? 
+6.2.1. **SSR**, **CSR**, এবং **SSG** এর মধ্যে পার্থক্য কী?  
+6.2.2. Next.js এ `getServerSideProps` কী?  
+6.2.3. Next.js এ **Authentication** কিভাবে হ্যান্ডেল করবেন?  
+6.2.4. আপনার Laravel প্রোজেক্টে কেন **Inertia.js** ব্যবহার করেছেন?  
+6.2.5. **React Router** এবং **Route Protection** ব্যাখ্যা করুন।  
+6.2.6. **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, এবং **Incremental Static Regeneration (ISR)** এর মধ্যে পার্থক্য কী? প্রতিটি ব্যবহারের সেরা পরিস্থিতি ব্যাখ্যা করুন।  
+6.2.7. Next.js এ **Data Fetching** এর বিভিন্ন পদ্ধতি (যেমন: `getServerSideProps`, `getStaticProps`, `getStaticPaths`, client-side fetching) বিস্তারিত আলোচনা করুন।  
+6.2.8. **File-system based routing** Next.js এ কিভাবে কাজ করে? **Dynamic routes** কিভাবে ইমপ্লিমেন্ট করবেন?  
+6.2.9. **API Routes** Next.js এ কিভাবে কাজ করে? কখন এগুলো ব্যবহার করবেন?  
+6.2.10. Next.js **Middleware** কী এবং এর ব্যবহার কী?  
+6.2.11. `next/image` এবং `next/head` কম্পোনেন্টগুলির ব্যবহার এবং সুবিধা কী?  
+6.2.12. **App Router** এবং **Pages Router** এর মধ্যে পার্থক্য কী? আপনি কেন একটির পরিবর্তে অন্যটি বেছে নেবেন?  
+6.2.13. Next.js অ্যাপ্লিকেশন **Deployment** এর জন্য কিভাবে প্রস্তুত করেন?  
 
 ---
 
 # 7. SaaS ও মাইক্রোসার্ভিসেস আর্কিটেকচার
 
 ## 7.1. SaaS (সফটওয়্যার অ্যাজ অ্যা সার্ভিস):
-7.1.1. **Multi-tenancy** কী? **Multi-tenant SaaS** অ্যাপ্লিকেশনের জন্য **Database Schema Design** এ আপনি কী কী বিষয় বিবেচনা করবেন? (যেমন: Shared database, separate schema, separate database)।
-7.1.2. **AT SMS** এর মতো একটি **SaaS** প্ল্যাটফর্মে **data isolation** এবং **security** কিভাবে নিশ্চিত করেছেন?
-7.1.3. SaaS অ্যাপ্লিকেশনের **scaling strategies** কী কী?
-7.1.4. SaaS অ্যাপ্লিকেশন **upgrades** এবং **maintenance** কিভাবে হ্যান্ডেল করেন যাতে ইউজারদের কাজের বিঘ্ন না ঘটে?
+7.1.1. **Multi-tenancy** কী? **Multi-tenant SaaS** অ্যাপ্লিকেশনের জন্য **Database Schema Design** এ আপনি কী কী বিষয় বিবেচনা করবেন? (যেমন: Shared database, separate schema, separate database)।  
+7.1.2. **AT SMS** এর মতো একটি **SaaS** প্ল্যাটফর্মে **data isolation** এবং **security** কিভাবে নিশ্চিত করেছেন?  
+7.1.3. SaaS অ্যাপ্লিকেশনের **scaling strategies** কী কী?  
+7.1.4. SaaS অ্যাপ্লিকেশন **upgrades** এবং **maintenance** কিভাবে হ্যান্ডেল করেন যাতে ইউজারদের কাজের বিঘ্ন না ঘটে?  
 
 ## 7.2. মাইক্রোসার্ভিসেস:
-7.2.1. **SaaS** কী? ডেভেলপমেন্টে মূল চ্যালেঞ্জগুলো কী কী?
-7.2.2. **Monolithic** এবং **Microservice Architecture** এর মধ্যে পার্থক্য কী?
+7.2.1. **SaaS** কী? ডেভেলপমেন্টে মূল চ্যালেঞ্জগুলো কী কী?  
+7.2.2. **Monolithic** এবং **Microservice Architecture** এর মধ্যে পার্থক্য কী?  
 7.2.3. **Microservices** কিভাবে একে অপরের সাথে যোগাযোগ করে?
-7.2.4. Microservices এ **Service Failures** কিভাবে ম্যানেজ করবেন?
-7.2.5. **Service Discovery** কী?
-7.2.6. **Multi-service architecture** এ **Auth** কিভাবে ইমপ্লিমেন্ট করবেন?
-7.2.7. **Services** এবং **Logs** কিভাবে মনিটর করবেন?
-7.2.8. Microservices এ **Database per Service** কিভাবে হ্যান্ডেল করবেন?
-7.2.9. **Domain-Driven Design (DDD)** এর সুবিধাগুলো কী কী?
-7.2.10. আপনার **AT SMS microservices** এর ডিজাইন ব্যাখ্যা করুন।
-7.2.11. **Monolithic** থেকে **Microservices** আর্কিটেকচারে স্থানান্তরের প্রধান কারণ এবং চ্যালেঞ্জগুলি কী কী?
-7.2.12. **Inter-service communication** এর জন্য আপনি কী কী পদ্ধতি ব্যবহার করেছেন? (যেমন: Synchronous REST/gRPC, Asynchronous message queues/event bus)।
-7.2.13. **Service Discovery** এবং **API Gateway** প্যাটার্নগুলি Microservices এ কিভাবে সাহায্য করে?
-7.2.14. **Distributed Transactions** এবং **Data Consistency** Microservices এ কিভাবে ম্যানেজ করেন? (যেমন: Saga Pattern, eventual consistency)।
-7.2.15. Microservices এর জন্য **monitoring**, **logging** এবং **tracing** কিভাবে ইমপ্লিমেন্ট করবেন?
-7.2.16. আপনার **AT SMS** প্রোজেক্টে প্রতিটি **Microservice** এর জন্য **domain boundary** কিভাবে নির্ধারণ করেছেন?
-7.2.17. Microservices এর **deployment** এবং **orchestration** কিভাবে ম্যানেজ করেন? (যেমন: Docker, Kubernetes)।
+7.2.4. Microservices এ **Service Failures** কিভাবে ম্যানেজ করবেন?  
+7.2.5. **Service Discovery** কী?  
+7.2.6. **Multi-service architecture** এ **Auth** কিভাবে ইমপ্লিমেন্ট করবেন?  
+7.2.7. **Services** এবং **Logs** কিভাবে মনিটর করবেন?  
+7.2.8. Microservices এ **Database per Service** কিভাবে হ্যান্ডেল করবেন?  
+7.2.9. **Domain-Driven Design (DDD)** এর সুবিধাগুলো কী কী?  
+7.2.10. আপনার **AT SMS microservices** এর ডিজাইন ব্যাখ্যা করুন।  
+7.2.11. **Monolithic** থেকে **Microservices** আর্কিটেকচারে স্থানান্তরের প্রধান কারণ এবং চ্যালেঞ্জগুলি কী কী?  
+7.2.12. **Inter-service communication** এর জন্য আপনি কী কী পদ্ধতি ব্যবহার করেছেন? (যেমন: Synchronous REST/gRPC, Asynchronous message queues/event bus)।  
+7.2.13. **Service Discovery** এবং **API Gateway** প্যাটার্নগুলি Microservices এ কিভাবে সাহায্য করে?  
+7.2.14. **Distributed Transactions** এবং **Data Consistency** Microservices এ কিভাবে ম্যানেজ করেন? (যেমন: Saga Pattern, eventual consistency)।  
+7.2.15. Microservices এর জন্য **monitoring**, **logging** এবং **tracing** কিভাবে ইমপ্লিমেন্ট করবেন?  
+7.2.16. আপনার **AT SMS** প্রোজেক্টে প্রতিটি **Microservice** এর জন্য **domain boundary** কিভাবে নির্ধারণ করেছেন?  
+7.2.17. Microservices এর **deployment** এবং **orchestration** কিভাবে ম্যানেজ করেন? (যেমন: Docker, Kubernetes)।  
 
 ---
 
 # 8. ডেটাবেস (MySQL, MongoDB, PostgreSQL, Redis)
 
 ## 8.1. সাধারণ ডেটাবেস কনসেপ্টস:
-8.1.1. **ACID properties** কী এবং **relational databases** এ এর গুরুত্ব কী?
-8.1.2. **Database Normalization** এবং **Denormalization** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?
-8.1.3. **Indexing** কী? বিভিন্ন ধরণের ইনডেক্স এবং তাদের ব্যবহারের সুবিধা-অসুবিধা আলোচনা করুন।
-8.1.4. **Database Transactions** কী? **Isolation Levels** গুলো ব্যাখ্যা করুন।
-8.1.5. **Database Security** এর জন্য আপনি কী কী পদক্ষেপ গ্রহণ করেন?
-8.1.6. **Database Backup** এবং **Recovery Strategies** সম্পর্কে আপনার অভিজ্ঞতা কী?
+8.1.1. **ACID properties** কী এবং **relational databases** এ এর গুরুত্ব কী?  
+8.1.2. **Database Normalization** এবং **Denormalization** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?  
+8.1.3. **Indexing** কী? বিভিন্ন ধরণের ইনডেক্স এবং তাদের ব্যবহারের সুবিধা-অসুবিধা আলোচনা করুন।  
+8.1.4. **Database Transactions** কী? **Isolation Levels** গুলো ব্যাখ্যা করুন।  
+8.1.5. **Database Security** এর জন্য আপনি কী কী পদক্ষেপ গ্রহণ করেন?  
+8.1.6. **Database Backup** এবং **Recovery Strategies** সম্পর্কে আপনার অভিজ্ঞতা কী?  
 
 ## 8.2. MongoDB (NoSQL):
-8.2.1. **Normalization** কী? Normal Form এর প্রকারভেদ কী কী?
-8.2.2. **INNER JOIN**, **LEFT JOIN**, **RIGHT JOIN** এর মধ্যে পার্থক্য কী?
-8.2.3. **Indexes** কী? কিভাবে তারা পারফরম্যান্স অপ্টিমাইজ করে?
-8.2.4. Laravel এ **Raw Queries** কিভাবে লিখবেন?
-8.2.5. MySQL এ **ACID Transaction** কী?
-8.2.6. **MongoDB vs MySQL** – কখন কোনটি ব্যবহার করবেন?
-8.2.7. **Embedded** এবং **Referenced Documents** এর মধ্যে পার্থক্য কী?
-8.2.8. MongoDB তে **Aggregation Pipeline** কী?
-8.2.9. Laravel এ **Redis Caching** কিভাবে ইমপ্লিমেন্ট করবেন?
-8.2.10. Laravel/NestJS এ **Redis Queues** কিভাবে ব্যবহার করবেন?
-8.2.11. **MongoDB** কখন **relational database** এর চেয়ে বেশি উপযোগী?
-8.2.12. **Document-oriented model** এর সুবিধা কী?
-8.2.13. **Sharding** এবং **Replication** MongoDB তে কিভাবে কাজ করে এবং কেন এগুলি ব্যবহার করা হয়?
-8.2.14. **Aggregation Pipeline** কী এবং কিভাবে এটি ব্যবহার করে জটিল ডেটা প্রসেস করবেন?
-8.2.15. **Embedded Documents** এবং **Referenced Documents** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?
+8.2.1. **Normalization** কী? Normal Form এর প্রকারভেদ কী কী?  
+8.2.2. **INNER JOIN**, **LEFT JOIN**, **RIGHT JOIN** এর মধ্যে পার্থক্য কী?  
+8.2.3. **Indexes** কী? কিভাবে তারা পারফরম্যান্স অপ্টিমাইজ করে?  
+8.2.4. Laravel এ **Raw Queries** কিভাবে লিখবেন?  
+8.2.5. MySQL এ **ACID Transaction** কী?  
+8.2.6. **MongoDB vs MySQL** – কখন কোনটি ব্যবহার করবেন?  
+8.2.7. **Embedded** এবং **Referenced Documents** এর মধ্যে পার্থক্য কী?  
+8.2.8. MongoDB তে **Aggregation Pipeline** কী?  
+8.2.9. Laravel এ **Redis Caching** কিভাবে ইমপ্লিমেন্ট করবেন?  
+8.2.10. Laravel/NestJS এ **Redis Queues** কিভাবে ব্যবহার করবেন?  
+8.2.11. **MongoDB** কখন **relational database** এর চেয়ে বেশি উপযোগী?  
+8.2.12. **Document-oriented model** এর সুবিধা কী?  
+8.2.13. **Sharding** এবং **Replication** MongoDB তে কিভাবে কাজ করে এবং কেন এগুলি ব্যবহার করা হয়?  
+8.2.14. **Aggregation Pipeline** কী এবং কিভাবে এটি ব্যবহার করে জটিল ডেটা প্রসেস করবেন?  
+8.2.15. **Embedded Documents** এবং **Referenced Documents** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?  
 
 ## 8.3. MySQL ও PostgreSQL (রিলেশনাল):
-8.3.1. **SQL Join** এর বিভিন্ন প্রকার (INNER, LEFT, RIGHT, FULL) উদাহরণসহ ব্যাখ্যা করুন।
-8.3.2. **Stored Procedures**, **Functions** এবং **Triggers** এর মধ্যে পার্থক্য কী?
-8.3.3. **Database Views** কী এবং তাদের ব্যবহার কী?
-8.3.4. **Query Optimization** এর জন্য আপনি কী কী টুলস এবং কৌশল ব্যবহার করেন? (যেমন: `EXPLAIN` কমান্ড)।
-8.3.5. **Indexes** কিভাবে **query performance** উন্নত করে এবং অতিরিক্ত ইনডেক্সিং এর অসুবিধা কী?
-8.3.6. MySQL এর **InnoDB** এবং **MyISAM** storage engines এর মধ্যে পার্থক্য কী?
+8.3.1. **SQL Join** এর বিভিন্ন প্রকার (INNER, LEFT, RIGHT, FULL) উদাহরণসহ ব্যাখ্যা করুন।  
+8.3.2. **Stored Procedures**, **Functions** এবং **Triggers** এর মধ্যে পার্থক্য কী?  
+8.3.3. **Database Views** কী এবং তাদের ব্যবহার কী?  
+8.3.4. **Query Optimization** এর জন্য আপনি কী কী টুলস এবং কৌশল ব্যবহার করেন? (যেমন: `EXPLAIN` কমান্ড)।  
+8.3.5. **Indexes** কিভাবে **query performance** উন্নত করে এবং অতিরিক্ত ইনডেক্সিং এর অসুবিধা কী?  
+8.3.6. MySQL এর **InnoDB** এবং **MyISAM** storage engines এর মধ্যে পার্থক্য কী?  
 
 ## 8.4. Redis:
-8.4.1. **Redis** কী এবং এটি কিভাবে **in-memory data store** হিসেবে কাজ করে?
-8.4.2. **Redis** এর বিভিন্ন **data structures** (Strings, Hashes, Lists, Sets, Sorted Sets) উদাহরণসহ ব্যাখ্যা করুন।
-8.4.3. **Caching** ছাড়াও **Redis** এর অন্যান্য ব্যবহার কী কী? (যেমন: Session Management, Real-time analytics, Leaderboards, Message Broker)।
-8.4.4. Redis **persistence** অপশনগুলো (RDB, AOF) কী এবং তাদের মধ্যে পার্থক্য কী?
-8.4.5. **Redis** ব্যবহার করে **rate limiting** কিভাবে ইমপ্লিমেন্ট করবেন?
+8.4.1. **Redis** কী এবং এটি কিভাবে **in-memory data store** হিসেবে কাজ করে?  
+8.4.2. **Redis** এর বিভিন্ন **data structures** (Strings, Hashes, Lists, Sets, Sorted Sets) উদাহরণসহ ব্যাখ্যা করুন।  
+8.4.3. **Caching** ছাড়াও **Redis** এর অন্যান্য ব্যবহার কী কী? (যেমন: Session Management, Real-time analytics, Leaderboards, Message Broker)।  
+8.4.4. Redis **persistence** অপশনগুলো (RDB, AOF) কী এবং তাদের মধ্যে পার্থক্য কী?  
+8.4.5. **Redis** ব্যবহার করে **rate limiting** কিভাবে ইমপ্লিমেন্ট করবেন?  
 
 ---
 
 # 9. REST API, JWT, OAuth2
 
 ## 9.1. RESTful API:
-9.1.1. **RESTful API** কী? মূল নীতিগুলো কী কী?
-9.1.2. **PUT**, **PATCH**, **POST** এর মধ্যে পার্থক্য কী?
-9.1.3. **JWT Authentication** কিভাবে কাজ করে?
-9.1.4. **Refresh Tokens** কিভাবে ইমপ্লিমেন্ট করবেন?
-9.1.5. **JWT** এবং **OAuth2** এর মধ্যে পার্থক্য কী?
-9.1.6. **OAuth2** এ **Scopes** কী?
-9.1.7. **API Endpoints** কিভাবে সুরক্ষিত করবেন?
-9.1.8. **API Rate Limiting** কী এবং Laravel/NestJS এ কিভাবে এটি প্রয়োগ করবেন?
-9.1.9. API তে **Versioning** কিভাবে হ্যান্ডেল করবেন?
-9.1.10. **CORS** কী এবং কিভাবে এটি সমাধান করবেন?
+9.1.1. **RESTful API** কী? মূল নীতিগুলো কী কী?  
+9.1.2. **PUT**, **PATCH**, **POST** এর মধ্যে পার্থক্য কী?  
+9.1.3. **JWT Authentication** কিভাবে কাজ করে?  
+9.1.4. **Refresh Tokens** কিভাবে ইমপ্লিমেন্ট করবেন?  
+9.1.5. **JWT** এবং **OAuth2** এর মধ্যে পার্থক্য কী?  
+9.1.6. **OAuth2** এ **Scopes** কী?  
+9.1.7. **API Endpoints** কিভাবে সুরক্ষিত করবেন?  
+9.1.8. **API Rate Limiting** কী এবং Laravel/NestJS এ কিভাবে এটি প্রয়োগ করবেন?  
+9.1.9. API তে **Versioning** কিভাবে হ্যান্ডেল করবেন?  
+9.1.10. **CORS** কী এবং কিভাবে এটি সমাধান করবেন?  
 
 ## 9.2. JWT (JSON Web Token):
-9.2.1. **JWT** কিভাবে কাজ করে? এর **structure** (Header, Payload, Signature) ব্যাখ্যা করুন।
-9.2.2. **JWT** এর সুবিধা এবং অসুবিধা কী?
-9.2.3. **JWT** দিয়ে **authentication** এবং **authorization** কিভাবে ইমপ্লিমেন্ট করবেন?
-9.2.4. **JWT security** এর জন্য আপনি কী কী বিষয় বিবেচনা করবেন? (secret key management, token expiration)।
-9.2.5. **Refresh Tokens** এর উদ্দেশ্য কী?
+9.2.1. **JWT** কিভাবে কাজ করে? এর **structure** (Header, Payload, Signature) ব্যাখ্যা করুন।  
+9.2.2. **JWT** এর সুবিধা এবং অসুবিধা কী?  
+9.2.3. **JWT** দিয়ে **authentication** এবং **authorization** কিভাবে ইমপ্লিমেন্ট করবেন?  
+9.2.4. **JWT security** এর জন্য আপনি কী কী বিষয় বিবেচনা করবেন? (secret key management, token expiration)।  
+9.2.5. **Refresh Tokens** এর উদ্দেশ্য কী?  
 
 ## 9.3. OAuth2:
-9.3.1. **OAuth2** কী এবং এটি কিভাবে **delegated authorization** প্রদান করে?
-9.3.2. **OAuth2** এর বিভিন্ন **Grant Types** (যেমন: Authorization Code, Client Credentials, Implicit) ব্যাখ্যা করুন এবং কখন কোনটি ব্যবহার করবেন?
-9.3.3. **OAuth2** এবং **OpenID Connect** এর মধ্যে পার্থক্য কী?
-9.3.4. আপনার **Subscription Management System** এ **Stripe** এর সাথে **OAuth2** বা অনুরূপ অথরাইজেশন কিভাবে ব্যবহার করেছেন?
+9.3.1. **OAuth2** কী এবং এটি কিভাবে **delegated authorization** প্রদান করে?  
+9.3.2. **OAuth2** এর বিভিন্ন **Grant Types** (যেমন: Authorization Code, Client Credentials, Implicit) ব্যাখ্যা করুন এবং কখন কোনটি ব্যবহার করবেন?  
+9.3.3. **OAuth2** এবং **OpenID Connect** এর মধ্যে পার্থক্য কী?  
+9.3.4. আপনার **Subscription Management System** এ **Stripe** এর সাথে **OAuth2** বা অনুরূপ অথরাইজেশন কিভাবে ব্যবহার করেছেন?  
 
 ---
 
