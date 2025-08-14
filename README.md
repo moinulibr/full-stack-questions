@@ -152,34 +152,34 @@
 # 6. React JS ও Next.js
 
 ## 6.1. React JS:
-6.1.1. **Virtual DOM** কী এবং কিভাবে React এটি ব্যবহার করে পারফরম্যান্স অপ্টিমাইজ করে?
-6.1.2. **React Hooks** কী? `useState`, `useEffect`, `useContext`, `useCallback`, `useMemo`, `useRef` এর ব্যবহার এবং উদ্দেশ্য ব্যাখ্যা করুন।
-6.1.3. **Controlled Components** এবং **Uncontrolled Components** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?
-6.1.4. **Context API** কী? কখন এটি **prop drilling** এর বিকল্প হিসেবে ব্যবহার করবেন?
-6.1.5. **Component Lifecycle** কি এবং **functional components** এ `useEffect` কিভাবে Lifecycle methods এর কাজ করে?
-6.1.6. **Error Boundaries** কী এবং কিভাবে React অ্যাপ্লিকেশনে এটি ইমপ্লিমেন্ট করবেন?
-6.1.7. React এ **Performance Optimization** এর জন্য আপনি কী কী কৌশল ব্যবহার করেন?
-6.1.8. **Higher-Order Components (HOCs)** এবং **Render Props** প্যাটার্নগুলো ব্যাখ্যা করুন। Hooks কিভাবে এগুলোকে আরও সহজ করেছে?
-6.1.9. React এ **Components** কী?
-6.1.10. **Functional** এবং **Class Component** এর মধ্যে পার্থক্য কী?
-6.1.11. Hooks: `useState`, `useEffect`, `useContext` ব্যাখ্যা করুন।
-6.1.12. **State Lifting** কী?
-6.1.13. **Prop drilling** কী এবং কিভাবে এটি এড়ানো যায়?
+6.1.1. **Virtual DOM** কী এবং কিভাবে React এটি ব্যবহার করে পারফরম্যান্স অপ্টিমাইজ করে?  
+6.1.2. **React Hooks** কী? `useState`, `useEffect`, `useContext`, `useCallback`, `useMemo`, `useRef` এর ব্যবহার এবং উদ্দেশ্য ব্যাখ্যা করুন।  
+6.1.3. **Controlled Components** এবং **Uncontrolled Components** এর মধ্যে পার্থক্য কী? কখন কোনটি ব্যবহার করবেন?  
+6.1.4. **Context API** কী? কখন এটি **prop drilling** এর বিকল্প হিসেবে ব্যবহার করবেন?  
+6.1.5. **Component Lifecycle** কি এবং **functional components** এ `useEffect` কিভাবে Lifecycle methods এর কাজ করে?  
+6.1.6. **Error Boundaries** কী এবং কিভাবে React অ্যাপ্লিকেশনে এটি ইমপ্লিমেন্ট করবেন?  
+6.1.7. React এ **Performance Optimization** এর জন্য আপনি কী কী কৌশল ব্যবহার করেন?  
+6.1.8. **Higher-Order Components (HOCs)** এবং **Render Props** প্যাটার্নগুলো ব্যাখ্যা করুন। Hooks কিভাবে এগুলোকে আরও সহজ করেছে?  
+6.1.9. React এ **Components** কী?  
+6.1.10. **Functional** এবং **Class Component** এর মধ্যে পার্থক্য কী?  
+6.1.11. Hooks: `useState`, `useEffect`, `useContext` ব্যাখ্যা করুন।  
+6.1.12. **State Lifting** কী?  
+6.1.13. **Prop drilling** কী এবং কিভাবে এটি এড়ানো যায়?  
 
 ## 6.2. Next.js:
-6.2.1. **SSR**, **CSR**, এবং **SSG** এর মধ্যে পার্থক্য কী?
-6.2.2. Next.js এ `getServerSideProps` কী?
-6.2.3. Next.js এ **Authentication** কিভাবে হ্যান্ডেল করবেন?
-6.2.4. আপনার Laravel প্রোজেক্টে কেন **Inertia.js** ব্যবহার করেছেন?
-6.2.5. **React Router** এবং **Route Protection** ব্যাখ্যা করুন।
-6.2.6. **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, এবং **Incremental Static Regeneration (ISR)** এর মধ্যে পার্থক্য কী? প্রতিটি ব্যবহারের সেরা পরিস্থিতি ব্যাখ্যা করুন।
-6.2.7. Next.js এ **Data Fetching** এর বিভিন্ন পদ্ধতি (যেমন: `getServerSideProps`, `getStaticProps`, `getStaticPaths`, client-side fetching) বিস্তারিত আলোচনা করুন।
-6.2.8. **File-system based routing** Next.js এ কিভাবে কাজ করে? **Dynamic routes** কিভাবে ইমপ্লিমেন্ট করবেন?
-6.2.9. **API Routes** Next.js এ কিভাবে কাজ করে? কখন এগুলো ব্যবহার করবেন?
-6.2.10. Next.js **Middleware** কী এবং এর ব্যবহার কী?
-6.2.11. `next/image` এবং `next/head` কম্পোনেন্টগুলির ব্যবহার এবং সুবিধা কী?
-6.2.12. **App Router** এবং **Pages Router** এর মধ্যে পার্থক্য কী? আপনি কেন একটির পরিবর্তে অন্যটি বেছে নেবেন?
-6.2.13. Next.js অ্যাপ্লিকেশন **Deployment** এর জন্য কিভাবে প্রস্তুত করেন?
+6.2.1. **SSR**, **CSR**, এবং **SSG** এর মধ্যে পার্থক্য কী? 
+6.2.2. Next.js এ `getServerSideProps` কী? 
+6.2.3. Next.js এ **Authentication** কিভাবে হ্যান্ডেল করবেন? 
+6.2.4. আপনার Laravel প্রোজেক্টে কেন **Inertia.js** ব্যবহার করেছেন? 
+6.2.5. **React Router** এবং **Route Protection** ব্যাখ্যা করুন। 
+6.2.6. **Server-Side Rendering (SSR)**, **Static Site Generation (SSG)**, এবং **Incremental Static Regeneration (ISR)** এর মধ্যে পার্থক্য কী? প্রতিটি ব্যবহারের সেরা পরিস্থিতি ব্যাখ্যা করুন। 
+6.2.7. Next.js এ **Data Fetching** এর বিভিন্ন পদ্ধতি (যেমন: `getServerSideProps`, `getStaticProps`, `getStaticPaths`, client-side fetching) বিস্তারিত আলোচনা করুন। 
+6.2.8. **File-system based routing** Next.js এ কিভাবে কাজ করে? **Dynamic routes** কিভাবে ইমপ্লিমেন্ট করবেন? 
+6.2.9. **API Routes** Next.js এ কিভাবে কাজ করে? কখন এগুলো ব্যবহার করবেন? 
+6.2.10. Next.js **Middleware** কী এবং এর ব্যবহার কী? 
+6.2.11. `next/image` এবং `next/head` কম্পোনেন্টগুলির ব্যবহার এবং সুবিধা কী? 
+6.2.12. **App Router** এবং **Pages Router** এর মধ্যে পার্থক্য কী? আপনি কেন একটির পরিবর্তে অন্যটি বেছে নেবেন? 
+6.2.13. Next.js অ্যাপ্লিকেশন **Deployment** এর জন্য কিভাবে প্রস্তুত করেন? 
 
 ---
 
