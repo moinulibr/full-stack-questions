@@ -102,50 +102,50 @@
 4.1.6. **this** কীওয়ার্ড এর বিভিন্ন **binding rules** (Implicit, Explicit, New, Lexical) উদাহরণসহ ব্যাখ্যা করুন।  
 
 ## 4.2. Asynchronous JS ও ES6+:
-4.2.1. **var**, **let**, এবং **const** এর মধ্যে পার্থক্য কী?
-4.2.2. উদাহরণসহ **Closure** কী তা ব্যাখ্যা করুন।
-4.2.3. **Hoisting** ব্যাখ্যা করুন।
-4.2.4. **Synchronous** এবং **Asynchronous JS** এর মধ্যে পার্থক্য কী?
-4.2.5. **Promises** কী এবং আপনি কিভাবে ত্রুটি (errors) হ্যান্ডেল করেন?
-4.2.6. **Event Loop** এবং **Call Stack** কী?
-4.2.7. `map()`, `filter()`, `reduce()` বনাম `forEach()` ব্যাখ্যা করুন।
-4.2.8. **Arrow functions** কী?
-4.2.9. JS এ **Destructuring** কী?
-4.2.10. **Event Delegation** ব্যাখ্যা করুন।
-4.2.11. **Promises** এবং **async/await** এর মধ্যে পার্থক্য কী? জটিল Asynchronous কোড হ্যান্ডেল করার জন্য কোনটি আপনার পছন্দ এবং কেন?
-4.2.12. **Event Loop**, **Call Stack**, **Web APIs**, **Callback Queue** কিভাবে Asynchronous JavaScript কোড এক্সিকিউট করে?
-4.2.13. **ES6 Modules** (import/export) কিভাবে কাজ করে এবং এর সুবিধা কী?
-4.2.14. **Generators** এবং **Iterators** JavaScript এ কী? কখন এগুলো ব্যবহার করবেন?
-4.2.15. **Proxy** এবং **Reflect** API গুলো কী এবং তাদের ব্যবহার কী?
+4.2.1. **var**, **let**, এবং **const** এর মধ্যে পার্থক্য কী?  
+4.2.2. উদাহরণসহ **Closure** কী তা ব্যাখ্যা করুন।  
+4.2.3. **Hoisting** ব্যাখ্যা করুন।  
+4.2.4. **Synchronous** এবং **Asynchronous JS** এর মধ্যে পার্থক্য কী?  
+4.2.5. **Promises** কী এবং আপনি কিভাবে ত্রুটি (errors) হ্যান্ডেল করেন?  
+4.2.6. **Event Loop** এবং **Call Stack** কী?  
+4.2.7. `map()`, `filter()`, `reduce()` বনাম `forEach()` ব্যাখ্যা করুন।  
+4.2.8. **Arrow functions** কী?  
+4.2.9. JS এ **Destructuring** কী?  
+4.2.10. **Event Delegation** ব্যাখ্যা করুন।  
+4.2.11. **Promises** এবং **async/await** এর মধ্যে পার্থক্য কী? জটিল Asynchronous কোড হ্যান্ডেল করার জন্য কোনটি আপনার পছন্দ এবং কেন?  
+4.2.12. **Event Loop**, **Call Stack**, **Web APIs**, **Callback Queue** কিভাবে Asynchronous JavaScript কোড এক্সিকিউট করে?  
+4.2.13. **ES6 Modules** (import/export) কিভাবে কাজ করে এবং এর সুবিধা কী?  
+4.2.14. **Generators** এবং **Iterators** JavaScript এ কী? কখন এগুলো ব্যবহার করবেন?  
+4.2.15. **Proxy** এবং **Reflect** API গুলো কী এবং তাদের ব্যবহার কী?  
 
 ---
 
 # 5. NodeJS ও NestJS
 
 ## 5.1. NodeJS (সাধারণ):
-5.1.1. Node.js এর **Event Loop** কিভাবে কাজ করে তা বিস্তারিত ব্যাখ্যা করুন। **microtasks** এবং **macrotasks** এর মধ্যে পার্থক্য কী?
-5.1.2. **Blocking** এবং **Non-blocking I/O** এর মধ্যে পার্থক্য উদাহরণসহ বুঝিয়ে দিন।
-5.1.3. Node.js এ **Asynchronous programming** কিভাবে হ্যান্ডেল করেন? **Callbacks**, **Promises**, **Async/Await** এর সুবিধা-অসুবিধা আলোচনা করুন।
-5.1.4. Node.js **Streams** কী এবং কখন আপনি এটি ব্যবহার করবেন? **Readable**, **Writable**, **Duplex** এবং **Transform** স্ট্রিমগুলি উদাহরণসহ ব্যাখ্যা করুন।
-5.1.5. `process.nextTick()` এবং `setImmediate()` এর মধ্যে পার্থক্য কী?
-5.1.6. Node.js অ্যাপ্লিকেশনকে **Scalable** করার জন্য আপনি কী কী পদ্ধতি অবলম্বন করবেন? (যেমন: Clustering, PM2, Load Balancing)।
+5.1.1. Node.js এর **Event Loop** কিভাবে কাজ করে তা বিস্তারিত ব্যাখ্যা করুন। **microtasks** এবং **macrotasks** এর মধ্যে পার্থক্য কী?  
+5.1.2. **Blocking** এবং **Non-blocking I/O** এর মধ্যে পার্থক্য উদাহরণসহ বুঝিয়ে দিন।  
+5.1.3. Node.js এ **Asynchronous programming** কিভাবে হ্যান্ডেল করেন? **Callbacks**, **Promises**, **Async/Await** এর সুবিধা-অসুবিধা আলোচনা করুন।  
+5.1.4. Node.js **Streams** কী এবং কখন আপনি এটি ব্যবহার করবেন? **Readable**, **Writable**, **Duplex** এবং **Transform** স্ট্রিমগুলি উদাহরণসহ ব্যাখ্যা করুন।  
+5.1.5. `process.nextTick()` এবং `setImmediate()` এর মধ্যে পার্থক্য কী?  
+5.1.6. Node.js অ্যাপ্লিকেশনকে **Scalable** করার জন্য আপনি কী কী পদ্ধতি অবলম্বন করবেন? (যেমন: Clustering, PM2, Load Balancing)।  
 
 ## 5.2. NestJS (ফ্রেমওয়ার্ক নির্দিষ্ট):
-5.2.1. **NodeJS** কী? এটি কোথায় ব্যবহৃত হয়?
-5.2.2. **NodeJS** এবং **Express** এর মধ্যে পার্থক্য কী?
-5.2.3. **NestJS** কী এবং কেন Express এর চেয়ে এটি ব্যবহার করবেন?
-5.2.4. NestJS এ **Modules**, **Providers**, **Controllers** ব্যাখ্যা করুন।
-5.2.5. NestJS এ **Exceptions** কিভাবে হ্যান্ডেল করবেন?
-5.2.6. NestJS এ একটি **Guard** কী?
-5.2.7. NestJS এ একটি **Interceptor** কী?
-5.2.8. NestJS এ **JWT authentication** কিভাবে ইমপ্লিমেন্ট করবেন?
-5.2.9. NestJS এ **Dependency Injection** কী?
-5.2.10. NestJS এ **Decorators** (যেমন: `@Controller`, `@Injectable`) কী?
-5.2.11. আপনার **AT SMS** প্রোজেক্টে কিভাবে **Microservices** আর্কিটেকচার NestJS দিয়ে ইমপ্লিমেন্ট করেছেন? কোন **transport layer** (যেমন: TCP, Redis, Kafka) ব্যবহার করেছেন এবং কেন?
-5.2.12. NestJS এ **Custom Decorators** বা **Custom Pipes** কিভাবে তৈরি করবেন? একটি ব্যবহারিক উদাহরণ দিন।
-5.2.13. NestJS অ্যাপ্লিকেশনে **Unit Testing** এবং **End-to-End Testing** কিভাবে করেন?
-5.2.14. NestJS এ **Configuration Management** কিভাবে করেন? (যেমন: `ConfigModule`, `.env` ফাইল)।
-5.2.15. **WebSockets** ব্যবহার করে NestJS এ **Real-time communication** কিভাবে ইমপ্লিমেন্ট করেছেন?
+5.2.1. **NodeJS** কী? এটি কোথায় ব্যবহৃত হয়?  
+5.2.2. **NodeJS** এবং **Express** এর মধ্যে পার্থক্য কী?  
+5.2.3. **NestJS** কী এবং কেন Express এর চেয়ে এটি ব্যবহার করবেন?  
+5.2.4. NestJS এ **Modules**, **Providers**, **Controllers** ব্যাখ্যা করুন।  
+5.2.5. NestJS এ **Exceptions** কিভাবে হ্যান্ডেল করবেন?  
+5.2.6. NestJS এ একটি **Guard** কী?  
+5.2.7. NestJS এ একটি **Interceptor** কী?  
+5.2.8. NestJS এ **JWT authentication** কিভাবে ইমপ্লিমেন্ট করবেন?  
+5.2.9. NestJS এ **Dependency Injection** কী?  
+5.2.10. NestJS এ **Decorators** (যেমন: `@Controller`, `@Injectable`) কী?  
+5.2.11. আপনার **AT SMS** প্রোজেক্টে কিভাবে **Microservices** আর্কিটেকচার NestJS দিয়ে ইমপ্লিমেন্ট করেছেন? কোন **transport layer** (যেমন: TCP, Redis, Kafka) ব্যবহার করেছেন এবং কেন?  
+5.2.12. NestJS এ **Custom Decorators** বা **Custom Pipes** কিভাবে তৈরি করবেন? একটি ব্যবহারিক উদাহরণ দিন।  
+5.2.13. NestJS অ্যাপ্লিকেশনে **Unit Testing** এবং **End-to-End Testing** কিভাবে করেন?  
+5.2.14. NestJS এ **Configuration Management** কিভাবে করেন? (যেমন: `ConfigModule`, `.env` ফাইল)।  
+5.2.15. **WebSockets** ব্যবহার করে NestJS এ **Real-time communication** কিভাবে ইমপ্লিমেন্ট করেছেন?  
 
 ---
 
