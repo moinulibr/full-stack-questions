@@ -248,6 +248,8 @@
 8.3.6. MySQL এর **InnoDB** এবং **MyISAM** storage engines এর মধ্যে পার্থক্য কী?  
 8.3.7. What is Database Normalization  ?
 8.3.8. Advantage of normalization.  
+8.3.9. What is Denormalization?  
+8.3.10. Advantage of Denormalization.  
 
 ## 8.4. Redis:
 8.4.1. **Redis** কী এবং এটি কিভাবে **in-memory data store** হিসেবে কাজ করে?  
