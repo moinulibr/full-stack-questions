@@ -1,0 +1,4 @@
+
+	Execution Context - 
+	-------------
+	Execution context is the environment of js code evaluated and executed.
