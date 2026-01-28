@@ -1,0 +1,68 @@
+
+	There are 8 kinds of data type in js. 
+--------------------------------------------------------------
+
+	1. String  	= Primitive	=  textiual representation
+	2. Number	= Primitive	= 
+	3. Bigint	= Primitive	= 
+	4. Boolean 	= Primitive	=  true/false
+	5. Undefined 	= Primitive	=  undefined is not a value. 
+	6. Null 	= Primitive	=  absence of value.. explecitly
+	7. Symbol 	= Primitive	=  Uniqueness of programmings
+	8. Object	= Non Primitive	=  
+
+
+
+
+	Primitive => Pass by value
+
+	Primitive
+	-----------
+	count = 10
+	item = 20
+	count = item // 20
+	item = 40
+	count ? //20
+	item ?  // 40
+
+
+	Non Primitive => Pass by Reference
+	Non Primitive value store in a memory of our computer. 
+	and the memory has an id. this id refer/point the 	
+
+	user = {"name":"Hasan"};   
+	emp = {"name" : "Manik"};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
