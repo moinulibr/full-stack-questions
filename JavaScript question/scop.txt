@@ -1,0 +1,6 @@
+
+	There are three variable scop in javascript.
+	
+	1. global scop
+	2. block scop
+	3. function scop
