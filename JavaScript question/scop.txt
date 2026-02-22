@@ -4,3 +4,5 @@
 	1. global scop
 	2. block scop
 	3. function scop
+	----------------
+	
