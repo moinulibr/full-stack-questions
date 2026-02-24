@@ -1,0 +1,15 @@
+
+	Memory Types - 
+	
+	Stack memory
+	heap memory
+	mark and swip 
+
+	Stack = Static (primitive value store er jonno use hoi)
+		static memory allocation
+
+	stack's space is limited....
+
+	Heap data structure -  (dynamic memory allocation)
+	---------------------- we can store (object, array, functions etc..) in this hip memory
+	Non-premitive (like - object,arry,functions...) data store 
