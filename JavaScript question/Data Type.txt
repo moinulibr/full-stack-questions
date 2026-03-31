@@ -30,8 +30,8 @@
 	Non Primitive value store in a memory of our computer. 
 	and the memory has an id. this id refer/point the 	
 
-	user = {"name":"Hasan"};   
-	emp = {"name" : "Manik"};
+	user = {"name":"Hasan"};   //non primitive
+	emp = {"name" : "Manik"};  //non primitive
 
 	
  -----------
