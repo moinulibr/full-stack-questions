@@ -6,3 +6,20 @@
 	Local scope - 
 	global scope 
 	function scope
+	
+	
+	Source Code
+	-> Tokenization
+	-> AST(Abstract Syntax Tree)  //example site - https://astexplorer.net/
+	-> Machine Code
+	-----------------------------------------------
+	What is tokenization? 
+	
+	Tokenization:- 
+
+
+	Tree Structures 
+	---------------- AST(Abstract Syntax Tree)
+
+	Machine code
+	-------------- (finally run on browser also nun the node js)
