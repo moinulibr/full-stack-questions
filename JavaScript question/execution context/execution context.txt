@@ -23,3 +23,24 @@
 
 	Machine code
 	-------------- (finally run on browser also nun the node js)
+
+
+	--------------------------------------------------
+
+	
+	Lexical -> kno ekta position e kno ekta ginish ke rakha. 
+	-----------------------------------------------------------
+
+	Lexical Context :- code base jure Lexical environment er je part ta ba je code tuku execution hosche setei Lexical Context.
+	Lexical Position/Environment :- Code base jure sob code e Lexical Evnironment/Position 
+
+
+	----------------x---------------
+	Jkhon js code first time run kore, tkhon js by default ekta execution context turey(made) kore, jar nam holo global execution context.
+
+	Global Execution Context (GEC):- 
+	--------------------------------
+	(in the js file, without functions all are global)
+	1. Global Object = window object (for browser)
+	2. this
+	
