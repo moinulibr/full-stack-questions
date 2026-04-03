@@ -64,9 +64,24 @@
 			  this and window kaz korche. jodi ei 2ta call kori, tahole buzte parbo. 
 			* abr jodi anno (other) code thake - like variable, functions, others.. tkhon ki hoi...???
 			
-				
+			#We will see the Creation phase of the global execution
+			context for the below code. 
 
+			let name   = 'Tom';
+			function sayName (){
+    				console.log(this.name);
+			}
 
+			1. window object
+			2. this (variable)
+			3. memory allocate for name, sayName
+			4. name = undefine [only variable name, without value)
+				function full body for function
+				XYZ--- (Memory Location)
+
+		2. Execution Phase		
+			1. Assign the value for variable [name="Tom";] it's from above example;
+			
 
 
 
