@@ -41,6 +41,35 @@
 	Global Execution Context (GEC):- 
 	--------------------------------
 	(in the js file, without functions all are global)
-	1. Global Object = window object (for browser)
-	2. this
+	1. Global Object = window object (for browser) and Global for node
+	2. this (variable)
+		---   window === this => true ---
+	--------------------------------------------------------
+
+	this and window object same/ek e jinish ke refer kore. [jeheto amra jani :- 2ta object jkhon eke name relocation ke point kore, tkhon tara same value ke oi particular memory location theke tule ante pare]
+	---------------------------------------
+
+
+	Global Execution Context(GEC)
+	------------   --------------
+	There are two(2) phase on global execution context.
+	1. Creation Phase, 
+	2. Execution Phase
+
+		1. Create Phase 
+			** Creation phase e prothomei ei 2 ta jinish sobar age create hoi, 
+				1. window: global
+				2. this (varibale): jeta window object ke refer kore
+			* eita buzar jonno projen hole ekta blank (kno js code nai) js file nei, dekbo sekhane 
+			  this and window kaz korche. jodi ei 2ta call kori, tahole buzte parbo. 
+			* abr jodi anno (other) code thake - like variable, functions, others.. tkhon ki hoi...???
+			
+				
+
+
+
+
+
+
+
 	
