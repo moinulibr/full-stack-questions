@@ -1,0 +1,43 @@
+STEP 2: Bangla + English Auto Switch
+
+👉 smart version:
+
+recognition.lang = "bn-BD"; // default
+
+// optional toggle
+function setLang(lang) {
+  recognition.lang = lang;
+}
+
+button add করো:
+
+<button onclick="setLang('bn-BD')">Bangla</button>
+<button onclick="setLang('en-US')">English</button>
+
+-------------------
+STEP 3: Voice → API (Backend send)
+
+👉 ধরো Laravel / Node API আছে
+
+recognition.onresult = function(event) {
+  let text = event.results[event.results.length - 1][0].transcript;
+
+  fetch("/api/voice", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({ message: text })
+  });
+};
+
+-------------------------------
+STEP 4: Laravel Example (Backend)
+Route::post('/voice', function (Request $request) {
+    $text = $request->message;
+
+    return response()->json([
+        'received' => $text
+    ]);
+});
+-----------------

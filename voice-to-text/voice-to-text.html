@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Voice to Text</title>
+</head>
+<body>
+
+<h2>🎤 Voice to Text (Bangla + English)</h2>
+
+<input type="text" id="output" placeholder="Speak something..." style="width:300px; height:40px;" />
+
+<br><br>
+
+<button onclick="startVoice()">Start 🎤</button>
+<button onclick="stopVoice()">Stop ❌</button>
+
+<script>
+let recognition;
+
+function startVoice() {
+  recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+
+  recognition.lang = "bn-BD"; // change to "en-US" for English
+  recognition.continuous = true;
+
+  recognition.onresult = function(event) {
+    let text = event.results[event.results.length - 1][0].transcript;
+    document.getElementById("output").value = text;
+  };
+
+  recognition.start();
+}
+
+function stopVoice() {
+  if (recognition) recognition.stop();
+}
+</script>
+
+</body>
+</html>
