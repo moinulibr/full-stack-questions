@@ -1,0 +1,181 @@
+
+			Interview Preparation
+			---------------------
+	
+	1. Tell us about yourself. 
+	Answer - I am a Full-Stack Engineer with over 5 years of experience, specializing in backend architecture. 
+		 I have extensive working experience with php (laravel), node.js (nestJS), and I have built scalable SaaS systems, including POS, Invoice, Rota, Form builder, SMS platform.
+		 I am passionate about writing clean, maintainable code and designing scalable efficient systems. 
+
+
+	2. Tell us about your journey as a software engineer. 
+	Answer - My journey (career) has been focused on building scalable systems and optimizing database.
+
+
+	3. Why do you want to join this company? [ Why are you interested in this role at Enosis Solutions.?]
+	Answer - I am interested in Enosis because of its strong engineering culture and focus on clean code and design patterns. 
+		 I want to grow in an environment where quality and scalability are highly valued.
+	
+
+	4. What is the most complex project you have worked on.?
+	Answer - The most complex project was omnishard-1B, where I designed a database sharding system to handle over one billion records. 
+		 Managing data consistency across multiple shards was a significants challenge. 
+
+
+	5. What are  your core technical strength..? [What is your strength?]
+	Answer - My strength are problem solving, fast learning ability, backend architecture, microservice and database optimization.
+		 I can quickly understand complex requirements and term them into scaling solutions.
+
+
+	6. What is your weakness?
+	Answer - Sometimes I focus too much on optimizing code, but I am learning to balance between perfection and timely delivary. 
+
+	
+	7. Where do you see yourself in 5 years? [
+	Answer - I see myself as a senior engineer or system architect, contributing to large-scale systems and mentoring junior developers.
+	
+
+	8. How do you handle pressure?
+	Answer - I break tasks into smaller parts and prioritize them. This helps me stay focused and deliver efficiently under pressure.
+
+	
+	9. Why should we hire you?
+	Answer - Because I have strong backend expertise, real-world experience in scalable systems, and a mindset focused on clean and maintainable  code.
+	
+
+	10. How do you stay updated with new technologies?
+	Answer - I regular read technical blogs like medium, dev.to, follow official documentation and experiment with 	frameworks in my perosnal projects. 
+
+
+	11. What is "Clean Code" to you.? 
+	Answer - To me, Clean code is code that is easy to read, simple to understand and effortless to maintain by any developer.
+
+
+	12. Explain the SOLID Principle in short. 
+	Answer - SOLID is a set of five design principles that help make software designs more understandable, flexible, and maintainable.
+	
+
+	13. What is the difference between Monolith and Microservice.? 
+	Answer - Monolith is a single unified unti, whereas Microservices is an architecture where the application  is built as a collection of small, independent service.
+
+	
+	14. What is your preferred database? SQL or NoSQL? whay?
+	Answer - It depends on the project. I prefer SQL for structured data and ACID Compliance, but I use NoSQL for high-speed, unstructured data. 
+	
+	
+	15. Explain data sharding.
+	Answer - Sharding is a method for distributing a single dataset across multiple database, allowing the system to handle messive amount of data. 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
