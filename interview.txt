@@ -67,7 +67,115 @@
 	Answer - Sharding is a method for distributing a single dataset across multiple database, allowing the system to handle messive amount of data. 
 
 
+	16. What is Dependency Injection?
+	Answer - It is a design pattern where an object receives its dependencies from outside rather than creating them itself.
+
 	
+	17. How do you handle API Security?
+	Answer - I use JWT for authentication, implement rate limiting, and ensure all data is encrypted using HTTPS.
+
+
+	18. What is the role of Redis in a scalable application?
+	Answer - Redis is primarily used for caching to reduce database load and as a message broker for real-time applications.
+
+	
+	19. Explain the concept of CI/CD.
+	Answer - CI/CD stands for Continuous Integration and Continuous Deployment, which automates the process of testing and deploying code changes.
+
+	
+	20. How do you handle a conflict with a team member?
+	Answer - I prefer professional discussion to understand their perspective and reach a consensus based on what is best for the project.
+
+	
+	21. Describe a time you had to learn a technology quickly.
+	Answer - When starting a new project that required NestJS, I spent extra hours reading documentation and building small prototypes to master it within a week.
+
+	
+	22. How do you estimate the time for a task?
+	Answer - I break down the task into smaller sub-tasks and add a buffer for unforeseen technical challenges.
+
+	
+	23. What would you do if you were unable to meet a deadline?
+	Answer - I would inform my manager as early as possible, explain the delay, and suggest a plan to complete the task quickly.
+
+	
+	24. How do you perform a Code Review?
+	Answer - I look for logical errors, check if the code follows established standards, and provide constructive feedback to the developer.
+
+	
+	25. What do you do when you find a bug in production?
+	Answer - My first step is to stay calm, reproduce the bug, apply a hotfix, and then analyze the root cause to prevent it from happening again.
+
+
+	26. Give an example of a difficult technical decision you made.
+	Answer - Choosing the right sharding key for a massive database was a tough decision because a wrong choice would lead to poor performance later.
+
+
+	27. How do you manage your tasks daily?
+	Answer - I use task management tools like Jira and start my day by prioritizing the most critical tasks first.
+
+	
+	28. Why should we hire a Senior developer instead of a Junior?
+	Answer - A senior developer brings architectural insight, mentorship for the team, and the ability to solve complex problems independently.
+
+
+	29. Where do you see yourself in the next 5 years?
+	Answer - I see myself as a Software Architect, designing large-scale systems and leading high-performing engineering teams.
+
+
+	30. What is Unit Testing? Why is it important?
+	Answer - Unit testing involves testing individual components of code to ensure they work as expected, which prevents bugs from reaching production.
+
+	
+	31. Difference between Synchronous and Asynchronous programming.
+	Answer - Synchronous code runs sequentially, while Asynchronous code allows multiple tasks to run in the background without blocking the main thread.
+
+	
+	32. How do you optimize a slow database query?
+	Answer - I start by using EXPLAIN to analyze the query, then I look for missing indexes or try to optimize the join operations.
+	
+
+	33. What is "Technical Debt"?
+	Answer - It is the cost of choosing a quick, messy solution now over a better, long-term solution, which eventually requires more work later.
+
+	
+	34. Do you have any questions for us?
+	Answer - Yes, what does the internal engineering culture look like, and how does the team handle new technology adoption?
+
+	----
+	
+
+	
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
