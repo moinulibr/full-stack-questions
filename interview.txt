@@ -211,7 +211,65 @@
 	
 	
 	
+	11. What is Dependency Injection?
+	🇧🇩 Dependency Injection কী?
+	💡 Answer:
+	It is a design pattern where dependencies are provided from outside rather than created inside a class.
 
+
+	12. What is REST API?
+	🇧🇩 REST API কী?
+	💡 Answer:
+	REST API is a standard way of communication between client and server using HTTP methods like GET, POST, PUT, DELETE.
+
+	13. What is middleware?
+	🇧🇩 Middleware কী?	
+	💡 Answer:
+	Middleware is a layer that processes requests before they reach the controller.
+
+
+	14. What is MVC?
+	🇧🇩 MVC কী?
+	💡 Answer:
+	Model-View-Controller is a design pattern that separates application logic into three parts.
+
+
+	15. What is ORM?
+	🇧🇩 ORM কী?
+	💡Answer:
+	ORM maps database tables to objects, making database operations easier.
+
+
+	🔥 SECTION 3: Database (VERY IMPORTANT)
+
+	16. What is indexing?
+	🇧🇩 Indexing কী?	
+	💡 Answer:
+	Indexing improves database query performance by reducing search time.
+
+
+	17. Difference between INNER JOIN and LEFT JOIN
+	🇧🇩 INNER JOIN এবং LEFT JOIN এর পার্থক্য
+	💡 Answer:
+	INNER JOIN returns matching rows, while LEFT JOIN returns all rows from left table and matching from right.
+
+
+	18. What is normalization?
+	🇧🇩 Normalization কী?
+	💡 Answer:
+	Normalization is the process of organizing data to reduce redundancy.
+
+
+	19. What is transaction?
+	🇧🇩 Transaction কী?
+	💡 Answer:
+	A transaction is a group of operations executed as a single unit.
+
+	
+	20. What is ACID?
+	🇧🇩 ACID কী?
+	💡 Answer:
+	ACID ensures database reliability: Atomicity, Consistency, Isolation, Durability.
 
 
 
