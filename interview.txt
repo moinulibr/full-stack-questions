@@ -147,7 +147,67 @@
 
 	
 
-	
+		ChatGPT Qustion Answer
+	-------------------------------------
+
+	1. Tell me about yourself
+	🇧🇩 নিজের সম্পর্কে বলুন
+
+	💡 Answer:
+		I am a Full-Stack Engineer with over 5 years of experience, specializing in backend architecture. I have strong expertise in PHP (Laravel) and Node.js (NestJS), and I have built scalable SaaS systems, including POS and SMS platforms. I am passionate about writing clean, maintainable code and designing efficient systems.
+
+	2. Why do you want to join this company?
+	🇧🇩 আপনি কেন এই কোম্পানিতে যোগ দিতে চান?
+	💡 Answer:
+		I am interested in Enosis because of its strong engineering culture and focus on clean code and design patterns. I want to grow in an environment where quality and scalability are highly valued.
+
+	3. What are your strengths?
+	🇧🇩 আপনার শক্তি কী?
+	💡 Answer:
+	My strengths are problem-solving, fast learning ability, and strong backend design skills. I can quickly understand complex requirements and turn them into scalable solutions.
+
+
+	4. What is your weakness?
+	🇧🇩 আপনার দুর্বলতা কী?
+	💡 Answer:
+	Sometimes I focus too much on optimizing code, but I am learning to balance between perfection and timely delivery.
+
+
+	5. Where do you see yourself in 5 years?
+	🇧🇩 ৫ বছর পরে নিজেকে কোথায় দেখতে চান?
+	💡 Answer:
+	I see myself as a senior engineer or system architect, contributing to large-scale systems and mentoring junior developers.
+
+
+	6. Describe a challenging project
+	🇧🇩 একটি চ্যালেঞ্জিং প্রজেক্ট বর্ণনা করুন
+	💡 Answer:
+	I worked on a scalable SMS platform where handling high concurrency was challenging. I implemented queue systems and optimized database queries, which improved performance significantly.
+
+
+	7. How do you handle pressure?
+	🇧🇩 চাপের মধ্যে আপনি কীভাবে কাজ করেন?
+	💡 Answer:
+	I break tasks into smaller parts and prioritize them. This helps me stay focused and deliver efficiently under pressure.
+
+	8. Why should we hire you?
+	🇧🇩 আমরা কেন আপনাকে নিয়োগ করবো?
+	💡 Answer:
+	Because I have strong backend expertise, real-world experience in scalable systems, and a mindset focused on clean and maintainable code.
+
+
+	🔥 SECTION 2: Backend / Technical Core
+
+	9. What is OOP?	
+	🇧🇩 OOP কী?
+	💡 Answer:
+	Object-Oriented Programming is a programming paradigm based on objects, which encapsulate data and behavior.
+
+
+	10. Explain SOLID principles
+	🇧🇩 SOLID প্রিন্সিপল ব্যাখ্যা করুন
+	💡 Answer:
+	SOLID is a set of 5 design principles that help write clean and maintainable code, such as Single Responsibility and Dependency Inversion.
 	
 	
 	
