@@ -272,7 +272,78 @@
 	ACID ensures database reliability: Atomicity, Consistency, Isolation, Durability.
 
 
+	21. What is event loop?
+	🇧🇩 Event loop কী?
+	💡 Answer:
+	It is a mechanism that handles asynchronous operations in JavaScript.
 
+
+	22. What is async/await?
+	🇧🇩 async/await কী?
+	💡 Answer:
+	It is a way to write asynchronous code in a synchronous style.
+
+
+	23. What is Promise?
+	🇧🇩 Promise কী?
+	💡 Answer:
+	A Promise represents a future value of an asynchronous operation.
+
+	🔥 SECTION 5: System Design (HIGH VALUE)
+	
+	24. What is scalability?
+	🇧🇩 Scalability কী?
+	💡 Answer:
+	Scalability is the ability of a system to handle increasing load.
+
+
+	25. Horizontal vs Vertical scaling
+	🇧🇩 Horizontal এবং Vertical scaling পার্থক্য
+	💡 Answer:
+	Horizontal adds more machines, vertical increases machine power.
+
+
+	26. What is caching?
+	🇧🇩 Caching কী?
+	💡 Answer:
+	Caching stores frequently used data for faster access.
+
+
+	27. What is load balancing?
+	🇧🇩 Load balancing কী?
+	💡 Answer:
+	It distributes traffic across multiple servers.
+
+
+	28. What is microservice architecture?
+	🇧🇩 Microservice architecture কী?
+	💡 Answer:
+	It divides application into small independent services.
+
+	🔥 SECTION 6: Real-world Engineering
+
+	29. How do you write clean code?
+	🇧🇩 আপনি কীভাবে ক্লিন কোড লেখেন?
+	💡 Answer:
+	By following naming conventions, modular design, and SOLID principles.
+
+
+	30. How do you debug issues?
+	🇧🇩 আপনি কীভাবে সমস্যা ডিবাগ করেন?
+	💡 Answer:
+	I reproduce the issue, check logs, and isolate the root cause step by step.
+
+
+	31. How do you optimize performance?
+	🇧🇩 আপনি কীভাবে পারফরম্যান্স অপ্টিমাইজ করেন?
+	💡 Answer:
+	By optimizing queries, using caching, and reducing unnecessary computations.
+
+
+	32. How do you learn new technology?
+	🇧🇩 নতুন প্রযুক্তি কীভাবে শেখেন?
+	💡 Answer:
+	I learn by building projects, reading documentation, and practicing consistently.
 
 
 
