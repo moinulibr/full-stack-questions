@@ -347,7 +347,40 @@
 
 
 
+	Enosis Solutions -
+	-------------------
+	bot video interviews question and answer
+	---
+	১. Technical Decision (কারিগরি সিদ্ধান্ত)
+	প্রশ্ন: এমন একটি কারিগরি সিদ্ধান্তের কথা বলুন যেখানে একাধিক বিকল্প ছিল। আপনি কোন ট্রেড-অফগুলো বিবেচনা করেছিলেন এবং কেন শেষ সমাধানটি বেছে নিয়েছিলেন?
+	Perfect Answer: "In my project, OmniShard-1B, I had to decide how to handle over a billion records. I considered two options: Vertical Scaling and Horizontal Scaling through Database Sharding. Vertical scaling was easier but had a physical limit and high costs. On the other hand, sharding was complex but offered unlimited scalability. I chose Database Sharding because our goal was long-term growth. I implemented custom sharding logic based on user IDs, which ensured high performance even with massive data loads."
+	বাংলা অর্থ: ওমনিশার্ড-১বি প্রজেক্টে ১ বিলিয়ন ডাটা হ্যান্ডেল করার জন্য আমি ভার্টিক্যাল স্কেলিং এবং ডাটাবেজ শার্ডিংয়ের মধ্যে শার্ডিং বেছে নিয়েছিলাম। কারণ শার্ডিং জটিল হলেও এটি ভবিষ্যতে আনলিমিটেড ডাটা হ্যান্ডেল করতে সক্ষম, যা আমাদের দীর্ঘমেয়াদী লক্ষ্যের জন্য সঠিক ছিল।
 
+
+	২. Collaborative Problem-Solving (দলগত সমস্যা সমাধান)
+	প্রশ্ন: আপনার সমাধান করা একটি জটিল বাগ (Bug) সম্পর্কে বলুন। এটি শনাক্ত করতে আপনার ভূমিকা কী ছিল এবং টিমের সাথে কীভাবে কাজ করেছিলেন?
+	Perfect Answer: "We once faced a critical Database Deadlock that stopped all new orders in production. I analyzed the server logs and identified that two background tasks were trying to update the same table simultaneously. I organized a quick meeting with my team to discuss the findings. We decided to implement Query Optimization and proper Transaction Management. By collaborating closely and doing pair programming, we fixed the issue quickly and improved system stability."
+	বাংলা অর্থ: প্রোডাকশনে একটি ডেডলক সমস্যার কারণে অর্ডার বন্ধ হয়ে গিয়েছিল। আমি লগ এনালাইসিস করে সমস্যাটি ধরি এবং টিমের সাথে আলোচনা করে কোয়েরি অপ্টিমাইজেশনের মাধ্যমে সবাই মিলে সমাধান করি।
+
+	৩. E-Commerce Order Processing (আর্কিটেকচার পছন্দ)
+	প্রশ্ন: একটি ই-কমার্স ব্যাকএন্ড ডিজাইনের ক্ষেত্রে আপনি কেন 'Event-driven architecture' (Option 2) বেছে নেবেন এবং কেন অন্যটি নেবেন না?
+	Perfect Answer: "I would choose Option 2 because an event-driven architecture using a message broker allows tasks like inventory and shipping to run concurrently. This provides a much faster response to the user. I wouldn't choose Option 1 because sequential API calls are slow; if one service fails, it blocks the entire order process, leading to a poor user experience."
+	বাংলা অর্থ: আমি অপশন ২ বেছে নেব কারণ ইভেন্ট-ড্রিভেন আর্কিটেকচারে সব কাজ একসাথে (concurrently) হয়, যা ইউজারকে দ্রুত রেসপন্স দেয়। অপশন ১ অনেক ধীরগতির এবং একটি সার্ভিস ফেইল করলে পুরো প্রসেস আটকে যায়।
+
+	৪. Learning a New Skill (নতুন কিছু শেখা) 
+	প্রশ্ন: গত কয়েক মাসে আপনার শেখা একটি নতুন প্রযুক্তি এবং আপনার শেখার প্রক্রিয়া সম্পর্কে বলুন।
+	Perfect Answer: "Recently, I learned about Bloom Filters to optimize database performance. I started by researching how to prevent unnecessary queries for non-existent data. I used technical blogs and system design videos as my primary resources. To confirm my understanding, I built a prototype where the filter sits before the database. It successfully blocked invalid requests, which significantly improved the overall lookup speed."
+	বাংলা অর্থ: আমি ডাটাবেজ অপ্টিমাইজেশনের জন্য ব্লুম ফিল্টার শিখেছি। টেকনিক্যাল ব্লগ এবং ভিডিও দেখে আমি এটি আয়ত্ত করি এবং একটি প্রোটোটাইপ তৈরির মাধ্যমে নিশ্চিত হই যে এটি ইনভ্যালিড রিকোয়েস্ট সফলভাবে ফিল্টার করতে পারছে।
+
+	৫. Technical Openness (নতুন টেকনোলজিতে মানিয়ে নেওয়া)
+	প্রশ্ন: আপনি কি আপনার মূল দক্ষতার বাইরের টেকনোলজিতে কাজ করতে রাজি? একটি বাস্তব উদাহরণ দিন।
+	Perfect Answer: "Yes, I am always open to learning new technologies based on project needs. To become productive quickly, I focus on the official documentation and study the existing codebase. A real example is when I successfully transitioned from PHP/Laravel to Node.js/NestJS. By building small modules and seeking feedback, I was able to contribute to the main project within just two weeks."
+	বাংলা অর্থ: আমি সবসময় নতুন কিছু শিখতে আগ্রহী। উদাহরণস্বরূপ, আমি লারাভেল থেকে নেস্ট-জেএস এ মাত্র দুই সপ্তাহে শিফট করে প্রজেক্টে কন্ট্রিবিউট করা শুরু করেছিলাম।
+
+	৬. Time Zone Flexibility (কাজের সময়)
+	প্রশ্ন: আপনি কি রাত ১১টা (বাংলাদেশ সময়) থেকে কাজ করতে স্বাচ্ছন্দ্যবোধ করেন? আপনি কীভাবে ভারসাম্য বজায় রাখবেন?
+	Perfect Answer: "Yes, I am perfectly comfortable with this schedule. For the last 4.5 years, I have been working for an Ireland-based company with a similar time frame, so I am already well-adjusted. I usually sleep in the morning and keep my afternoons free for personal life. This routine allows me to stay energetic and fully focused during work hours."
+	বাংলা অর্থ: আমি এই সময়ের সাথে পুরোপুরি অভ্যস্ত কারণ গত ৪.৫ বছর ধরে আমি আয়ারল্যান্ড-ভিত্তিক কোম্পানিতে একই সময়ে কাজ করছি। আমি সকালে ঘুমিয়ে এবং বিকেলে ব্যক্তিগত কাজ সেরে নিজের ব্যালেন্স বজায় রাখি।
 
 
 
