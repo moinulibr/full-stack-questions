@@ -254,22 +254,22 @@
 
 	PostgreSQL
 ----------------------------------
-What is MVCC (Multi-Version Concurrency Control) in PostgreSQL?
+201. What is MVCC (Multi-Version Concurrency Control) in PostgreSQL?
 
-What is the purpose of the VACUUM command and how does it prevent Transaction ID Wraparound?
+202. What is the purpose of the VACUUM command and how does it prevent Transaction ID Wraparound?
 
-Difference between JSON vs JSONB in PostgreSQL — which one should you use for indexing?
+203. Difference between JSON vs JSONB in PostgreSQL — which one should you use for indexing?
 
-How does PostgreSQL handle Full-Text Search compared to MySQL?
+204. How does PostgreSQL handle Full-Text Search compared to MySQL?
 
-What are Partial Indexes and Expression Indexes?
+205. What are Partial Indexes and Expression Indexes?
 
-Explain the concept of Write-Ahead Logging (WAL).
+206. Explain the concept of Write-Ahead Logging (WAL).
 
-What is an Extension in PostgreSQL (e.g., PostGIS, pg_stat_statements)?
+207. What is an Extension in PostgreSQL (e.g., PostGIS, pg_stat_statements)?
 
-How do Materialized Views in PostgreSQL differ from regular views?
+208. How do Materialized Views in PostgreSQL differ from regular views?
 
-What is Table Inheritance in PostgreSQL?
+209. What is Table Inheritance in PostgreSQL?
 
-Explain Window Functions specifically in the context of PostgreSQL's performance.
+210. Explain Window Functions specifically in the context of PostgreSQL's performance.
