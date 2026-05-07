@@ -249,3 +249,27 @@
 198. How to design a highly scalable **Notification System** database?
 199. **UUID vs. Auto-increment** — which is better for a primary key in a distributed DB?
 200. How to perform **Online Schema Changes** (e.g., adding a column to a 1TB table) without locking?
+
+
+
+	PostgreSQL
+----------------------------------
+What is MVCC (Multi-Version Concurrency Control) in PostgreSQL?
+
+What is the purpose of the VACUUM command and how does it prevent Transaction ID Wraparound?
+
+Difference between JSON vs JSONB in PostgreSQL — which one should you use for indexing?
+
+How does PostgreSQL handle Full-Text Search compared to MySQL?
+
+What are Partial Indexes and Expression Indexes?
+
+Explain the concept of Write-Ahead Logging (WAL).
+
+What is an Extension in PostgreSQL (e.g., PostGIS, pg_stat_statements)?
+
+How do Materialized Views in PostgreSQL differ from regular views?
+
+What is Table Inheritance in PostgreSQL?
+
+Explain Window Functions specifically in the context of PostgreSQL's performance.
