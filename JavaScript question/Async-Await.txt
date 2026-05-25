@@ -2,3 +2,5 @@
 	async function funcationName(){
 		const data = await dummyData();// api call
 	}
+
+	//if we want to use await, use async before function declare
