@@ -1,0 +1,4 @@
+
+	async function funcationName(){
+		const data = await dummyData();// api call
+	}
